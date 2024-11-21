@@ -53,24 +53,32 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 320 2648649",
         "icon": "/assets/images/phone.png"
       },
       {
-        "name": "Email",
-        "description": "minegocio@gmail.com",
-        "icon": "/assets/images/email.png"
-      },
-      {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
+        "name": "Blog",
+        "description": "https://www.meridiano20.com.co/",
+        "icon": "/assets/images/blog.png",
+        "url":"https://www.meridiano20.com.co/"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "MERIDIANO 20",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/meridiano20"
+      },
+      {
+        "name": "Twitter",
+        "description": "@Meridiano20h",
+        "icon": "/assets/images/x.png",
+        "url":"https://twitter.com/Meridiano20h"
+      },
+      {
+        "name": "Youtube",
+        "description": "Meridiano20comco",
+        "icon": "/assets/images/youtube.png",
+        "url":"https://www.youtube.com/meridiano20comco"
       }
     ]
   },
